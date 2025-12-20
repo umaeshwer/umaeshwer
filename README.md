@@ -6,3 +6,11 @@ Now pursuing an M.S. in Applied Data Science at USC to deepen statistical fundam
 - 🧠 Interested in deep thinking about problems that deliver real business value – not just model accuracy.
 - 📍 Based in Los Angeles, CA · open to relocation within the U.S.  
 - 🎯 Actively seeking Summer 2026 internships (Data Science preferred; open to ML Engineer, Data Engineer, and Analytics roles).
+
+<!--START_SECTION:waka-->
+```Python
+From: 20 December 2025 - To: 20 December 2025
+
+Total Time: 0 hrs 0 mins
+```
+<!--END_SECTION:waka-->

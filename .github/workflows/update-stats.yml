@@ -1,0 +1,26 @@
+name: Update README With Wakatime Stats
+
+on:
+    workflow_dispatch:
+    schedule:
+      - cron: "0 */6 * * *"
+    push:
+        branches: [main]
+
+jobs:
+    update-readme:
+        name: UPDATE README
+        runs-on: ubuntu-latest
+        steps:
+          - uses: athul/waka-readme@master
+            with:
+                WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
+                SHOW_TIME: true
+                SHOW_TITLE: true
+                SHOW_MASKED_TIME: true
+                TIME_RANGE: all_time
+                STOP_AT_OTHER: false
+                CODE_LANG: Python
+                COMMIT_MESSAGE: Updated README with new metrics
+                COMMITTER_NAME: umaeshwer
+                COMMITTER_EMAIL: umaeshwer@gmail.com
