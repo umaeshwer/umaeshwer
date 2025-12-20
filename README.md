@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Umaeshwer 👋
 
-<!--
-**umaeshwer/umaeshwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious, math-driven **builder** with an engineering foundation and 3+ years of experience shipping production ML and data systems for Fortune 500 clients (ex–Tiger Analytics).
+Now pursuing an M.S. in Applied Data Science at USC to deepen statistical fundamentals, inference, and experimental design while building end-to-end ML and analytics projects.
 
-Here are some ideas to get you started:
+- 🧠 Interested in deep thinking about problems that deliver real business value – not just model accuracy.
+- 📍 Based in Los Angeles, CA · open to relocation within the U.S.  
+- 🎯 Actively seeking Summer 2026 internships (Data Science preferred; open to ML Engineer, Data Engineer, and Analytics roles).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- Agentic AI
+- Time Series Models
+- MLOps and CI/CD
+
+---
+
+## How I think
+
+- Systems-first: design for scale, reliability, and observability from day one.  
+- Math-first: care about the statistical assumptions behind models, not just leaderboard scores. 
+- Product-first: partner with stakeholders to turn vague ideas into measurable outcomes (e.g., churn, forecasting, operations).
