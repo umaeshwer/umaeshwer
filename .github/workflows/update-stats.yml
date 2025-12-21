@@ -18,9 +18,11 @@ jobs:
                 SHOW_TIME: true
                 SHOW_TITLE: true
                 SHOW_MASKED_TIME: true
+                LANG_COUNT: 7
                 TIME_RANGE: all_time
                 STOP_AT_OTHER: false
-                CODE_LANG: Python
+                CODE_LANG: c++
+                IGNORED_LANGUAGES: Binary YAML TOML JSON CMake Text
                 COMMIT_MESSAGE: Updated README with new metrics
-                COMMITTER_NAME: umaeshwer
+                COMMITTER_NAME: umaeshwer 
                 COMMITTER_EMAIL: umaeshwer@gmail.com
