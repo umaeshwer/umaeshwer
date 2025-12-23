@@ -10,12 +10,12 @@ Now pursuing an M.S. in Applied Data Science at USC to deepen statistical fundam
 <!--START_SECTION:waka-->
 
 ```c++
-From: 19 December 2025 - To: 22 December 2025
+From: 19 December 2025 - To: 23 December 2025
 
-Total Time: 1 hr 7 mins
+Total Time: 2 hrs 3 mins
 
-Python     1 hr 6 mins     ████████████████████████▓   98.06 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python     2 hrs 1 min     ████████████████████████▓   98.93 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
