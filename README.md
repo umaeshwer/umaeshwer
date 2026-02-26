@@ -10,7 +10,7 @@ Now pursuing an M.S. in Applied Data Science at USC to deepen statistical fundam
 <!--START_SECTION:waka-->
 
 ```c++
-From: 19 December 2025 - To: 25 February 2026
+From: 19 December 2025 - To: 26 February 2026
 
 Total Time: 10 hrs 55 mins
 
