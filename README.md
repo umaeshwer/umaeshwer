@@ -10,14 +10,14 @@ Now pursuing an M.S. in Applied Data Science at USC to deepen statistical fundam
 <!--START_SECTION:waka-->
 
 ```c++
-From: 19 December 2025 - To: 07 May 2026
+From: 19 December 2025 - To: 08 May 2026
 
-Total Time: 32 hrs 27 mins
+Total Time: 32 hrs 42 mins
 
-Python          28 hrs 24 mins        ██████████████████████░░░   87.50 %
-Other           1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Markdown        1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Cassandra CQL   30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Python          28 hrs 39 mins        ██████████████████████░░░   87.60 %
+Other           1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Markdown        1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Cassandra CQL   30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 Git Config      12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 CSV             4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
