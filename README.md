@@ -1,11 +1,12 @@
-# Hi, I'm Umaeshwer 👋
+# Hi, I'm Uma 👋
 
-Curious, math-driven **builder** with an engineering foundation and 3+ years of experience shipping production ML and data systems for Fortune 500 clients (ex–Tiger Analytics).
-Now pursuing an M.S. in Applied Data Science at USC to deepen statistical fundamentals, inference, and experimental design while building end-to-end ML and analytics projects.
+I am based in Los Angeles, CA where I am pursuing an MS in Applied Data Science at the University of Southern California. I got into Machine Learning during my undergraduate at Indian Institute of Technology Tirupati, where I worked on applications related to Power Grid Load Forecasting (Time Series Regression), Sensor-based Facial Recognition Systems (Deep Learning) and Channel Selection Algorithms in Multi-Channel Networks (Reinforcement Learning). 
 
-- 🧠 Interested in deep thinking about problems that deliver real business value – not just model accuracy.
-- 📍 Based in Los Angeles, CA · open to relocation within the U.S.  
-- 🎯 Actively seeking Summer 2026 internships for machine learning engineer and data engineer roles
+I got an opportunity to work on Production-grade ML applications during my three years as a Machine Learning Engineer at Tiger Analytics, where I worked mainly on Retail Forecasting and On-Demand Delivery Applications (Time Series Regression, again). 
+
+And now, I am putting all the pieces together :-).
+
+If you are interested in collaborating or find me a good fit for your team, please drop an email to umaeshwershankar [at] gmail [dot] com.
 
 <!--START_SECTION:waka-->
 
