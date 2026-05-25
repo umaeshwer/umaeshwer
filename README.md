@@ -1,8 +1,8 @@
 # Hi, I'm Uma 👋
 
-I am based in Los Angeles, CA where I am pursuing an MS in Applied Data Science at the University of Southern California. I got into Machine Learning during my undergraduate at Indian Institute of Technology Tirupati, where I worked on applications related to Power Grid Load Forecasting (Time Series Regression), Sensor-based Facial Recognition Systems (Deep Learning) and Channel Selection Algorithms in Multi-Channel Networks (Reinforcement Learning). 
+I am based in Los Angeles, CA where I am pursuing an MS in Applied Data Science at the University of Southern California. I got into Machine Learning during my undergraduate at Indian Institute of Technology Tirupati, where I worked on applications related to Power Grid Load Forecasting (Time Series Regression), Sensor-based Facial Recognition Systems (Deep Learning) and Channel Selection Algorithms in Wireless Networks (Reinforcement Learning). 
 
-I got an opportunity to work on Production-grade ML applications during my three years as a Machine Learning Engineer at Tiger Analytics, where I worked mainly on Retail Forecasting and On-Demand Delivery Applications (Time Series Regression, again). 
+I got an opportunity to work on Production-grade ML applications during my three years as a Machine Learning Engineer at Tiger Analytics, where I worked mainly on Retail Forecasting and On-Demand Delivery Applications (Time Series Regression, again).
 
 And now, I am putting all the pieces together :-).
 
