@@ -7,16 +7,16 @@ If you are interested in collaborating or find me a good fit for your team, plea
 <!--START_SECTION:waka-->
 
 ```c++
-From: 18 December 2025 - To: 31 July 2026
+From: 18 December 2025 - To: 01 August 2026
 
-Total Time: 36 hrs 57 mins
+Total Time: 38 hrs 28 mins
 
-Python          31 hrs 58 mins        █████████████████████▓░░░   86.50 %
-Markdown        1 hr 40 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Other           39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Git Config      20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Cassandra CQL   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-CSV             4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python          31 hrs 58 mins        ████████████████████▓░░░░   83.08 %
+Markdown        1 hr 46 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+HTML            59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Other           40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Git Config      20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Cassandra CQL   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
