@@ -7,7 +7,7 @@ If you are interested in collaborating or find me a good fit for your team, plea
 <!--START_SECTION:waka-->
 
 ```c++
-From: 18 December 2025 - To: 28 August 2026
+From: 18 December 2025 - To: 29 August 2026
 
 Total Time: 38 hrs 32 mins
 
